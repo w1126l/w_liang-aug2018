@@ -1,12 +1,12 @@
 package hello_world;
 
 /**
- * First Run
+ * Second Try
  * 
  * @author Winnie Liang
- * @version 8/22/18
+ * @version 8/28/18
  */
-public class hello_world
+public class Hello_world
 {
     public static void main(String[] args)
     {
