@@ -1,3 +1,3 @@
 # w_liang-aug2018
-Hello World //
+Hello World
 Pikachu Code
